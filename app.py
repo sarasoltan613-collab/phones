@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+"/mount/src/phones/app.py"
 import pickle
 
 from sklearn.compose import ColumnTransformer
